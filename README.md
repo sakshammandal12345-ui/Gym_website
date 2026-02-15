@@ -1,6 +1,6 @@
-# 💪 Perfect Health Fitness and Gym
+# Gym Website Prototype
 
-Welcome to the **Perfect Health Fitness and Gym** website repository! This project is a modern, responsive, and interactive landing page designed for a premium fitness center. It showcases a holistic approach to health, combining workout plans, nutrition advice (featuring traditional Nepali diets), and community support.
+ This project is a modern, responsive, and interactive landing page designed for a premium fitness center. It showcases a holistic approach to health, combining workout plans, nutrition advice (featuring traditional Nepali diets), and community support.
 
 ## 🌟 Features
 
